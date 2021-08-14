@@ -10,7 +10,7 @@ I used OpenCV in this project and also used HaarCasscade (Viola Jones Algorithm)
 
 To Begin, we have to provide folders that contains each character pictures, try to have at least 6 pictures for each person, we need to give the algorithm good amount of data. 
 
-![folder](folder.png)
+![folder](Folder.png)
 
 ![pictures](example.png)
 
