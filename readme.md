@@ -29,7 +29,7 @@ $ pip3 install cmake
  
 ##### Adjust Sensitivity / Radius
 Inside of our code you can see inside `faces.py` that we have a _function_ called `detectMultiScale()`, we have three values inside of it. The first one is the image in **grayscale**, then we have **ScaleFactor** for me it worked great with the value 1.1.
-I would suggest trying different values between 0.8~1.5. Last we have **minNeighbors**, good values will be in the range of 3~6.
+I would suggest trying different values between 0.8-1.5. Last we have **minNeighbors**, good values will be in the range of 3-6.
 
 ## Articles and Guides about `LBPH Algorithm`
 - [Face Recognition: Understanding LBPH Algorithm](https://towardsdatascience.com/face-recognition-how-lbph-works-90ec258c3d6b) by Kelvin Salton do Prado
