@@ -3,6 +3,9 @@ This project is my first try with Computer Vision.
 I used OpenCV in this project and also used HaarCasscade (Viola Jones Algorithm), and LBPH Algorithm.
 
 
+##LIVE DEMO
+![DEMO](readmepics/FaceRec.png)
+
 ### Requirements
 
   * Python 3.3+ or Python 2.7
@@ -10,9 +13,9 @@ I used OpenCV in this project and also used HaarCasscade (Viola Jones Algorithm)
 
 To Begin, we have to provide folders that contains each character pictures, try to have at least 6 pictures for each person, we need to give the algorithm good amount of data. 
 
-![folder](folder.png)
+![folder](readmepics/folder.png)
 
-![pictures](example.png)
+![pictures](readmepics/example.png)
 
 
 ## Dependencies
